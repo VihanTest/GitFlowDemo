@@ -1,3 +1,4 @@
 11111
 bugfixes
 修复问题
+添加friends
