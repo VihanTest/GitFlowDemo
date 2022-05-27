@@ -2,3 +2,4 @@
 bugfixes
 修复问题
 添加friends
+添加friends模块2
